@@ -7,6 +7,7 @@ Welcome to Zowe Explorer! Zowe Explorer brings mainframe capabilities to modern 
 
 Join our [Slack channel](https://slack.openmainframeproject.org/) to connect with the Zowe community.
 
+test
 ## Requirements
 
 Client-side prerequisites:
